@@ -160,9 +160,6 @@ Inside backend folder:
 
 ## Useful Links
 
-- This project
-
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
 
 - Official Docs
 
@@ -171,11 +168,6 @@ Inside backend folder:
   - Mongodb docs: https://docs.mongodb.com/manual/introduction/
   - Github docs: https://docs.github.com/en/get-started/quickstart/hello-world
 
-- Youtube tutorials
-
-  - Expressjs: https://youtu.be/L72fhGm1tfE
-  - React: https://youtu.be/EHTWMpD6S_0
-  - Redux: https://youtu.be/1oU_YGhT7ck
 
 - Download links
 
